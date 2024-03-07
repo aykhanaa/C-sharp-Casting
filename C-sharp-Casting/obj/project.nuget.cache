@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEiNrEVF4Z/ebTNwb8hphczFedBGR5A5+yLhtrq75Z+a79Cg1ByUaZ6R3iSWAPOjUID9fORROz0AYYPawWze8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\C#\\C-sharp-Casting\\C-sharp-Casting\\C-sharp-Casting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
